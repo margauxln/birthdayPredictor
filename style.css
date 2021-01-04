@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  /*background: #000;*/
+  height: 100%;
+  width: 100%;
+}
+#confetti{
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom:0;
+  right:0;
+}
+#birthdaypredictor{
+  text-align: center;
+  padding-top:3em;
+  font-size: 2em;
+  color: #444444;
+  font-family: 'La Belle Aurore', cursive;
+}
